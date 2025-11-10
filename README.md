@@ -15,5 +15,5 @@ Todos os prompts usados para gerar o texto e as imagens estão documentados no a
 
 ## 🖼️ Imagem de Capa
 
-A imagem de capa utilizada foi gerada no Gemini.
+A imagem de capa utilizada foi gerada no Gemini e editada no PowerPoint.
 ![Imagem de Capa](./docker_capa.png)
